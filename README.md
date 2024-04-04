@@ -1,7 +1,7 @@
 # Roblox Bulk Unfriend by Venfroze
 ## Works on Developer Console (on browser)
 Steps:
-1. Go to https://friends.roblox.com/docs and make sure to get the list of all friends
+1. Go to https://friends.roblox.com/docs and make sure to get the list of all friends in JSON
 2. Remove the people who you dont want to unfriend (traders, friends, ytbers, verified ppl, etc.)
 3. input into the users table (the ENTIRE thing)
 4. Go onto the roblox website and paste the code into your browser
