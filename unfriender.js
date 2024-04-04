@@ -13,7 +13,7 @@ const users = [
     "displayName": "Roblox"
   }
 ]
-// replace above variable with the result you get from the API, then remove the people you aren't willing to unfriend
+// replace above variable contents with the result you get from the API, then remove the people you aren't willing to unfriend
 
 const hideusers = false
 try {
@@ -24,7 +24,6 @@ try {
         "content-type": "application/json; charset=utf-8",
         "nel": {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1},
         "report-to": {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://ncs.roblox.com/upload"}]},
-        "roblox-machine-id": "ae59b0f9-e174-3e60-5b1e-6e80bacfb3dd",
         "server": "Kestrel",
         "strict-transport-security": "max-age=3600",
         "x-firefox-spdy": "h2",
